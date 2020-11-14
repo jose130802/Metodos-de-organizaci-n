@@ -8,6 +8,6 @@
 * **Ruth Betzabe Castro Acosta** - [@Ruthbcastro](https://github.com/Ruthbcastro "@Ruthbcastro")
 * **Jose Emmanuel Bacab** - 
 ## Descripción
-**Métodos de organización:
+**Métodos de organización:**
 
 Herramienta en la que se da a conocer la importancia de la organización del tiempo, sus diferentes técnicas y como puedes implementarlas en tu día a día obteniendo un mejor desempeño. Dirigido a un nivel educativo universitario, basado en el modo presencial y modalidad en línea..
